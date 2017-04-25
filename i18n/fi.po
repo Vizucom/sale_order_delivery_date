@@ -1,0 +1,32 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* sale_order_delivery_date
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 14:29+0000\n"
+"PO-Revision-Date: 2017-04-25 14:29+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sale_order_delivery_date
+#: field:sale.order,date_delivery:0
+msgid "Delivery Date"
+msgstr "Toimituspäivä"
+
+#. module: sale_order_delivery_date
+#: help:sale.order,date_delivery:0
+msgid "Delivery date promised to the customer"
+msgstr "Asiakkaalle luvattu toimituspäivä"
+
+#. module: sale_order_delivery_date
+#: model:ir.model,name:sale_order_delivery_date.model_sale_order
+msgid "Sales Order"
+msgstr "Myyntitilaus"
+
